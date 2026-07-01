@@ -1,0 +1,33 @@
+2025-01-05 13:52:05,375 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 13:52:05,376 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 13:52:08,742 - github_client_1 - ERROR - Failed to retrieve file content
+2025-01-05 13:52:11,613 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 13:55:07,060 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 13:55:07,062 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 13:55:10,401 - github_client_1 - ERROR - Failed to retrieve file content
+2025-01-05 13:55:13,142 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 13:58:26,241 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 13:58:26,243 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 13:58:29,536 - github_client_1 - ERROR - Failed to retrieve file content
+2025-01-05 13:58:32,349 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 14:03:43,266 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 14:03:43,268 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 14:03:48,650 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 14:04:28,853 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 14:04:28,854 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 14:04:34,155 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 14:04:37,193 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 14:04:37,198 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 14:04:42,204 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 14:05:44,541 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 14:05:44,543 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 14:05:49,553 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 14:11:45,034 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 14:11:45,037 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 14:11:50,137 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 14:48:02,450 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 14:48:02,461 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 14:48:09,010 - github_client_1 - INFO - Completed PR files fetch
+2025-01-05 17:51:10,735 - github_client_1 - INFO - Initializing GitHub client with token
+2025-01-05 17:51:10,738 - github_client_1 - INFO - Starting PR files fetch
+2025-01-05 17:51:17,354 - github_client_1 - INFO - Completed PR files fetch

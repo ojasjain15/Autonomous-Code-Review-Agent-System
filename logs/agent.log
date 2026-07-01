@@ -1,0 +1,849 @@
+2025-01-05 13:52:11,628 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:11,639 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:12,128 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:12,132 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:12,943 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:12,945 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:13,557 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:52:13,560 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:14,255 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:14,257 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:14,258 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:14,259 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:14,259 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:52:14,262 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:14,264 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:14,780 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:14,781 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:15,500 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:15,502 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:16,345 - code_analyzer.analyzer - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 13:52:16,348 - code_analyzer.analyzer - ERROR - Bug analysis failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 13:52:16,352 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:16,959 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:16,961 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:16,961 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:16,962 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:16,963 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:52:16,965 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:16,966 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:17,387 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:17,388 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:18,205 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:18,208 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:18,711 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:52:18,712 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:19,252 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:19,253 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:19,254 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:19,255 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:19,255 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:52:19,257 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:19,259 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:19,805 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:19,806 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:20,364 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:20,366 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:21,157 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:52:21,158 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:21,856 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:21,860 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:21,862 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:21,864 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:21,867 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:52:21,873 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:21,876 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:22,278 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:22,281 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:23,008 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:23,009 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:23,499 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:52:23,500 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:23,968 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:23,969 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:23,969 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:23,970 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:23,971 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:52:23,973 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:23,975 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:24,402 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:24,403 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:24,928 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:24,929 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:25,423 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:52:25,424 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:26,095 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:26,096 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:26,097 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:26,098 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:26,099 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:52:26,101 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:52:26,103 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:52:26,534 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:52:26,536 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:52:27,073 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:52:27,074 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:52:27,538 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:52:27,539 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:52:28,078 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:52:28,079 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:52:28,079 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:52:28,080 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:52:28,081 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:13,147 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:13,150 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:13,980 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:13,982 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:15,018 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:15,021 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:15,684 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:15,685 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:16,448 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:16,452 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:16,454 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:16,457 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:16,460 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:16,466 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:16,469 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:17,057 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:17,058 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:17,863 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:17,867 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:18,468 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:18,469 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:19,090 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:19,091 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:19,092 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:19,093 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:19,094 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:19,097 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:19,099 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:19,629 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:19,631 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:20,477 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:20,478 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:21,026 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:21,028 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:21,566 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:21,570 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:21,572 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:21,578 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:21,580 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:21,585 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:21,588 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:22,081 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:22,084 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:22,885 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:22,887 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:23,632 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:23,633 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:24,227 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:24,228 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:24,230 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:24,230 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:24,231 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:24,235 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:24,236 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:24,628 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:24,630 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:25,352 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:25,354 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:25,838 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:25,839 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:26,382 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:26,383 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:26,384 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:26,385 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:26,385 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:26,387 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:26,389 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:26,888 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:26,889 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:27,537 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:27,540 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:28,080 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:28,083 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:29,032 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:29,034 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:29,035 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:29,036 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:29,038 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:55:29,042 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:55:29,043 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:55:29,438 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:55:29,441 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:55:29,972 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:55:29,973 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:55:30,425 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:55:30,426 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:55:31,167 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:55:31,169 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:55:31,170 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:55:31,171 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:55:31,172 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:32,354 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:32,365 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:32,854 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:32,858 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:33,572 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:33,574 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:34,111 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:34,112 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:34,691 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:34,692 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:34,693 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:34,694 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:34,695 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:34,697 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:34,699 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:35,354 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:35,355 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:36,186 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:36,188 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:36,875 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:36,877 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:37,558 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:37,559 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:37,560 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:37,561 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:37,562 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:37,566 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:37,568 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:38,071 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:38,076 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:38,785 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:38,786 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:39,261 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:39,262 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:39,756 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:39,757 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:39,757 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:39,758 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:39,759 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:39,761 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:39,763 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:40,170 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:40,171 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:40,935 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:40,936 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:41,653 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:41,657 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:42,231 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:42,233 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:42,234 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:42,235 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:42,236 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:42,238 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:42,240 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:42,626 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:42,632 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:43,107 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:43,112 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:43,599 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:43,601 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:44,007 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:44,009 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:44,010 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:44,011 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:44,012 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:44,015 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:44,017 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:44,492 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:44,495 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:45,004 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:45,005 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:45,647 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:45,648 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:46,243 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:46,245 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:46,247 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:46,249 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:46,251 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 13:58:46,255 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 13:58:46,257 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 13:58:46,688 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 13:58:46,690 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 13:58:47,373 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 13:58:47,374 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 13:58:47,847 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 13:58:47,849 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 13:58:48,411 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 13:58:48,412 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 13:58:48,413 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 13:58:48,414 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 13:58:48,415 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:03:48,667 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:03:48,677 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:03:49,144 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:03:49,147 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:03:49,745 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:03:49,746 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:03:50,494 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:03:50,499 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:03:51,202 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:03:51,203 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:03:51,204 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:03:51,205 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:03:51,206 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:03:51,208 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:03:51,209 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:03:51,628 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:03:51,629 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:03:52,274 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:03:52,277 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:03:52,844 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:03:52,848 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:03:53,302 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:03:53,305 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:03:53,307 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:03:53,310 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:03:53,311 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:03:53,316 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:03:53,319 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:03:53,863 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:03:53,864 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:03:54,537 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:03:54,538 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:03:55,100 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:03:55,104 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:03:55,769 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:03:55,770 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:03:55,771 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:03:55,771 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:03:55,772 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:03:55,774 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:03:55,776 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:03:56,286 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:03:56,287 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:03:56,939 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:03:56,942 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:03:58,250 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:03:58,252 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:03:59,623 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:03:59,625 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:03:59,626 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:03:59,627 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:03:59,628 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:03:59,631 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:03:59,633 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:01,055 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:01,057 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:01,986 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:01,989 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:02,941 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:04:02,947 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:03,972 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:04:03,978 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:03,980 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:03,982 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:03,984 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:03,990 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:03,993 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:04,781 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:04,783 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:05,646 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:05,648 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:06,774 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:04:06,777 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:08,320 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:04:08,321 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:08,321 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:08,322 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:08,323 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:34,162 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:34,167 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:34,625 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:34,628 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:35,841 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:35,842 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:36,591 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:04:36,593 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:37,298 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:04:37,299 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:37,300 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:37,301 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:37,301 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:37,304 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:37,306 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:37,718 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:37,719 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:38,384 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:38,386 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:38,932 - code_analyzer.analyzer - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:38,934 - code_analyzer.analyzer - ERROR - Bug analysis failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:38,936 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:39,459 - code_analyzer.analyzer - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:39,460 - code_analyzer.analyzer - ERROR - Performance analysis failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:39,461 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:39,462 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:39,463 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:39,463 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:39,465 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:39,467 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:39,933 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:39,934 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:40,822 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:40,823 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:41,482 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:04:41,483 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:42,060 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:04:42,063 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:42,065 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:42,066 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:42,068 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:42,072 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:42,075 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:42,207 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:42,215 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:42,593 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:42,604 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:42,666 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:42,667 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:43,233 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:43,234 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:43,466 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:43,468 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:44,030 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:04:44,032 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:44,088 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:04:44,089 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:44,447 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:44,450 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:44,454 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:44,456 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:44,459 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:44,461 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:44,465 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:44,468 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:44,691 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:04:44,692 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:44,693 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:44,694 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:44,694 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:44,696 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:44,698 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:44,787 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:44,788 - code_analyzer.analyzer - ERROR - Code type analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:44,790 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:45,008 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,008 - code_analyzer.analyzer - ERROR - Code type analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,009 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:45,120 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,120 - code_analyzer.analyzer - ERROR - Style analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,121 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:45,322 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,325 - code_analyzer.analyzer - ERROR - Style analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,329 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:45,501 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,502 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,503 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:45,664 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,665 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,666 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:45,901 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,902 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:45,903 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:45,904 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:45,904 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:45,905 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:45,907 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:45,908 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:46,010 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,011 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,012 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:46,013 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:46,014 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:46,014 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:46,016 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:46,018 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:46,261 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,263 - code_analyzer.analyzer - ERROR - Code type analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,269 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:46,341 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,342 - code_analyzer.analyzer - ERROR - Code type analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,343 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:46,673 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,675 - code_analyzer.analyzer - ERROR - Style analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,677 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:46,997 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:46,998 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,000 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:47,213 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:04:47,215 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:47,309 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,310 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,311 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:47,312 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:47,312 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:47,313 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:47,315 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:47,316 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:47,538 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,540 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,542 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:47,744 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,745 - code_analyzer.analyzer - ERROR - Code type analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,746 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:47,883 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,884 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:47,885 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:47,886 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:47,886 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:47,887 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:48,098 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:48,100 - code_analyzer.analyzer - ERROR - Style analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:48,104 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:48,513 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:48,515 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:48,519 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:49,136 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:04:49,137 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:49,138 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:49,139 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:49,139 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:49,141 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:49,143 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:49,517 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:49,519 - code_analyzer.analyzer - ERROR - Code type analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:49,522 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:49,969 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:49,970 - code_analyzer.analyzer - ERROR - Style analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:49,972 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:50,398 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:50,401 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:50,404 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:50,760 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:50,762 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:50,763 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:50,765 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:50,766 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:50,767 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:04:50,770 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:04:50,772 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:04:51,418 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:04:51,419 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:04:51,764 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:51,767 - code_analyzer.analyzer - ERROR - Style analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:51,771 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:04:52,109 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:52,110 - code_analyzer.analyzer - ERROR - Bug analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:52,112 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:04:52,547 - code_analyzer.analyzer - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:52,548 - code_analyzer.analyzer - ERROR - Performance analysis failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:04:52,550 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:04:52,552 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:04:52,553 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:04:52,554 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:05:49,556 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:05:49,559 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:05:50,057 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:05:50,061 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:05:50,736 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:05:50,737 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:05:51,325 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:05:51,327 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:05:52,394 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:05:52,398 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:05:52,402 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:05:52,404 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:05:52,406 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:05:52,413 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:05:52,416 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:05:52,918 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:05:52,919 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:05:53,474 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:05:53,475 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:05:54,033 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:05:54,035 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:05:54,542 - code_analyzer.analyzer - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:05:54,543 - code_analyzer.analyzer - ERROR - Performance analysis failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-05 14:05:54,545 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:05:54,546 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:05:54,547 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:05:54,548 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:05:54,550 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:05:54,552 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:05:55,013 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:05:55,015 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:05:55,745 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:05:55,746 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:05:57,000 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:05:57,004 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:05:57,513 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:05:57,514 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:05:57,515 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:05:57,516 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:05:57,517 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:05:57,520 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:05:57,521 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:05:58,066 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:05:58,068 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:05:59,437 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:05:59,439 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:06:00,098 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:06:00,099 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:06:01,015 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:06:01,017 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:06:01,017 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:06:01,018 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:06:01,019 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:06:01,021 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:06:01,023 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:06:01,719 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:06:01,721 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:06:02,675 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:06:02,676 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:06:03,639 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:06:03,641 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:06:04,719 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:06:04,723 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:06:04,724 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:06:04,724 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:06:04,726 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:06:04,729 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:06:04,732 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:06:05,426 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:06:05,429 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:06:06,551 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:06:06,552 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:06:07,901 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:06:07,903 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:06:08,707 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:06:08,709 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:06:08,710 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:06:08,711 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:06:08,712 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:11:50,149 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:11:50,177 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:11:50,694 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:11:50,695 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:11:52,268 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:11:52,269 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:11:52,862 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:11:52,864 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:11:53,368 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:11:53,371 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:11:53,372 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:11:53,373 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:11:53,375 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:11:53,381 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:11:53,385 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:11:53,926 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:11:53,928 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:11:54,455 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:11:54,458 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:11:54,961 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:11:54,965 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:11:55,450 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:11:55,454 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:11:55,455 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:11:55,456 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:11:55,456 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:11:55,466 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:11:55,474 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:11:56,395 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:11:56,398 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:11:57,091 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:11:57,093 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:11:57,701 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:11:57,702 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:11:58,248 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:11:58,249 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:11:58,250 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:11:58,251 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:11:58,251 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:11:58,255 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:11:58,257 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:11:58,801 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:11:58,805 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:11:59,490 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:11:59,491 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:12:00,107 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:12:00,108 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:12:00,876 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:12:00,877 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:12:00,878 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:12:00,879 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:12:00,880 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:12:00,882 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:12:00,883 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:12:01,813 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:12:01,815 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:12:02,855 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:12:02,856 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:12:03,799 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:12:03,800 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:12:05,040 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:12:05,046 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:12:05,049 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:12:05,052 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:12:05,053 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:12:05,059 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:12:05,062 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:12:05,717 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:12:05,718 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:12:07,126 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:12:07,128 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:12:08,055 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:12:08,056 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:12:08,899 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:12:08,900 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:12:08,901 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:12:08,902 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:12:08,902 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:48:09,026 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:48:09,034 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:48:09,513 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:48:09,517 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:48:10,319 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:48:10,323 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:48:10,987 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:48:10,990 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:48:11,596 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:48:11,600 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:48:11,601 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:48:11,604 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:48:11,605 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:48:11,610 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:48:11,612 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:48:12,022 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:48:12,027 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:48:12,676 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:48:12,681 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:48:13,238 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:48:13,243 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:48:13,822 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:48:13,826 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:48:13,828 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:48:13,831 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:48:13,832 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:48:13,837 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:48:13,840 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:48:14,329 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:48:14,334 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:48:14,985 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:48:14,994 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:48:15,638 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:48:15,642 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:48:16,280 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:48:16,284 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:48:16,286 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:48:16,288 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:48:16,291 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:48:16,297 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:48:16,300 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:48:16,863 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:48:16,867 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:48:17,593 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:48:17,598 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:48:18,276 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:48:18,279 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:48:19,158 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:48:19,162 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:48:19,165 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:48:19,167 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:48:19,169 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:48:19,176 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:48:19,186 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:48:19,893 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:48:19,902 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:48:20,992 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:48:20,997 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:48:21,996 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:48:22,000 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:48:22,835 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:48:22,839 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:48:22,841 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:48:22,845 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:48:22,846 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 14:48:22,862 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 14:48:22,865 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 14:48:23,505 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 14:48:23,506 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 14:48:24,276 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 14:48:24,282 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 14:48:25,066 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 14:48:25,070 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 14:48:25,968 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 14:48:25,972 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 14:48:25,975 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 14:48:25,977 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 14:48:25,979 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 17:51:17,361 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 17:51:17,371 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 17:51:18,278 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 17:51:18,280 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 17:51:19,201 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 17:51:19,203 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 17:51:19,966 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 17:51:19,968 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 17:51:20,924 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 17:51:20,925 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 17:51:20,926 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 17:51:20,926 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 17:51:20,927 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 17:51:20,929 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 17:51:20,931 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 17:51:21,484 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 17:51:21,485 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 17:51:22,325 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 17:51:22,327 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 17:51:23,306 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 17:51:23,308 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 17:51:24,011 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 17:51:24,012 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 17:51:24,012 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 17:51:24,013 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 17:51:24,014 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 17:51:24,016 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 17:51:24,017 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 17:51:24,639 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 17:51:24,641 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 17:51:25,478 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 17:51:25,479 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 17:51:26,367 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 17:51:26,369 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 17:51:27,142 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 17:51:27,146 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 17:51:27,148 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 17:51:27,153 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 17:51:27,155 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 17:51:27,161 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 17:51:27,165 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 17:51:27,869 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 17:51:27,870 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 17:51:28,615 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 17:51:28,617 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 17:51:29,529 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 17:51:29,530 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 17:51:30,351 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 17:51:30,354 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 17:51:30,356 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 17:51:30,360 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 17:51:30,362 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 17:51:30,364 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 17:51:30,369 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 17:51:31,340 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 17:51:31,341 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 17:51:32,530 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 17:51:32,532 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 17:51:33,743 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 17:51:33,744 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 17:51:35,022 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 17:51:35,023 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 17:51:35,024 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 17:51:35,025 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 17:51:35,026 - code_analyzer.analyzer - INFO - Code analysis completed
+2025-01-05 17:51:35,028 - code_analyzer.analyzer - INFO - Starting code analysis
+2025-01-05 17:51:35,029 - code_analyzer.analyzer - INFO - Starting code type analysis
+2025-01-05 17:51:36,127 - code_analyzer.analyzer - INFO - Code type analysis completed
+2025-01-05 17:51:36,129 - code_analyzer.analyzer - INFO - Starting style analysis
+2025-01-05 17:51:37,392 - code_analyzer.analyzer - INFO - Style analysis completed
+2025-01-05 17:51:37,393 - code_analyzer.analyzer - INFO - Starting bug analysis
+2025-01-05 17:51:38,558 - code_analyzer.analyzer - INFO - Bug analysis completed
+2025-01-05 17:51:38,567 - code_analyzer.analyzer - INFO - Starting performance analysis
+2025-01-05 17:51:39,616 - code_analyzer.analyzer - INFO - Performance analysis completed
+2025-01-05 17:51:39,617 - code_analyzer.analyzer - INFO - Processed style_issues
+2025-01-05 17:51:39,618 - code_analyzer.analyzer - INFO - Processed bug_issues
+2025-01-05 17:51:39,619 - code_analyzer.analyzer - INFO - Processed performance_issues
+2025-01-05 17:51:39,619 - code_analyzer.analyzer - INFO - Code analysis completed
